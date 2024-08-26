@@ -1,0 +1,25 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+.btn {
+  width: 100%;
+  
+}
+
+.row {
+  align-items: center;
+}
+
+.line {
+  text-decoration: line-through;
+}
+
+
+
+
